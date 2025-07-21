@@ -11,6 +11,6 @@ function ageCheck(age){
     }else{
         console.log("you are minor")
     }
-}
+} 
 ageCheck(20);
 ageCheck(30);
